@@ -1,6 +1,6 @@
 ### Oi!! Eu sou Tiago Tardelli👋
 
-- 🔭 Hoje trabalho como Analista de Sistemas, porém estou migrando para desenvolvimento focado em back-end com python
+- 🔭 Hoje trabalho como Analista de Sistemas e venho estudando desenvolvimento focado em back-end com python e Django
 - 🌱 Estudando python, Django e Linux
 
 <div>
