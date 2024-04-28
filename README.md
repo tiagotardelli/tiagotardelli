@@ -1,7 +1,7 @@
 ### Oi!! Eu sou Tiago Tardelli👋
 
-- 🔭 Hoje trabalho como Analista de Sistemas e venho estudando desenvolvimento focado em back-end com python e Django
-- 🌱 Estudando python, Django e Linux
+- 🔭 Atualmente sou Analista de Sistemas em uma empresa focada em automações industriais. Nela desenvolvo o trabalho de levantamento e desenvolvimento de soluções para o ERP Sankhya utilizando como linguages o Java, C#, JavScript e PL/SQL. 
+- 🌱 Atualmente tenho aprimorado meus conhecimentos técnicos e soft skills.
 
 <div>
   <a href="https://beacons.ai/tiagotardelli">
