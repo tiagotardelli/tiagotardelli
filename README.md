@@ -11,7 +11,8 @@
 </div>
 <hr>
 <div style="display: inline_block"> SO <br>
-  <img align="center" alt="Tardelli-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Tardelli-Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">  
+  <img align="center" alt="Tardelli-ArchLinux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
 </div>
 <hr>
 <div style="display: inline_block"> Programação<br>
