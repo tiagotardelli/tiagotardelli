@@ -17,9 +17,11 @@
 <div style="display: inline_block"> Programação<br>
   <img align="center" alt="Tardelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tardelli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Tardelli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <hr>
 <div style="display: inline_block">Banco de Dados<br>
+  <img align="center" alt="Tardelli-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
   <img align="center" alt="Tardelli-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Tardelli-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Tardelli-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -27,6 +29,9 @@
 <hr>
 <div syle="display: inline_block">IDE<br>
   <img align="center" alt="Tardelli-PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Tardelli-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Tardelli-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
+  <img align="center" alt="Tardelli-Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 </div>
 <hr>
 <div syle="display: inline_block">Repositório<br>
@@ -36,6 +41,9 @@
 <div syle="display: inline_block">Frameworks<br>
   <img align="center" alt="Tardelli-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Tardelli-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="Tardelli-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+
+  
 </div>
 <hr>
 <div> 
